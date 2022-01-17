@@ -1,0 +1,39 @@
+[RESOURCES]
+Policeman_Female
+MP_Distributor
+Policeman_Male
+Manager
+Serjeant
+[VARIABLES]
+Emergency_Service_Point_10869.NumberOut
+NID_Checking_10869.NumberOut True
+Movement_Pass_10869.VATime
+Log_Entry_Process_Female_10869.NumberIn
+People_Exit_10869.NumberOut
+Emergency_Token Checking_10869.NumberOut False
+Collect_Information_10869.NumberOut
+Log_Entry_Process_Male_10869.VATime
+Log_Entry_Process_Female_10869.WaitTime
+Log_Entry_Process_Female_10869.VATime
+Emergency_Service_Point_10869.NumberIn
+Emergency_Token Checking_10869.NumberOut True
+Log_Entry_Process_Female_10869.NumberOut
+Gender Checking_10869.NumberOut False
+Log_Entry_Process_Male_10869.NumberIn
+Collect_Information_10869.VATime
+MP_Checking Female_10869.NumberOut True
+Log_Entry_Process_Male_10869.NumberOut
+Movement_Pass_10869.NumberOut
+Log_Entry_Process_Male_10869.WaitTime
+Movement_Pass_10869.NumberIn
+Emergency_Service_Point_10869.WaitTime
+Gender Checking_10869.NumberOut True
+Collect_Information_10869.NumberIn
+Emergency_Service_Point_10869.VATime
+Movement_Pass_10869.WaitTime
+MP_Checking Male_10869.NumberOut True
+MP_Checking Female_10869.NumberOut False
+Collect_Information_10869.WaitTime
+Arrival_10869.NumberOut
+MP_Checking Male_10869.NumberOut False
+NID_Checking_10869.NumberOut False
